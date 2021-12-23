@@ -1,1 +1,4 @@
 /target
+
+# pbuilder's chroot base tarball
+/test/*.tgz

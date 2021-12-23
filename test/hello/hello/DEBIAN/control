@@ -1,0 +1,8 @@
+Package: hello
+Version: 0.0.1
+Architecture: amd64
+Priority: optional
+Section: unknown
+Build-Depends: gcc (>=5)
+Description: say hello
+  this is just a sample program.
